@@ -83,7 +83,7 @@ p{
 } */
 
 
-/* NAVIBAR */
+/* NAVBAR */
 * {
     padding:0px;
     margin:0px;
@@ -92,7 +92,7 @@ p{
 #navbar{
         height:60px;
         background-color: #0f1111;
-        color: white;
+        color: rgb(255, 255, 255);
         
 }
 button{
