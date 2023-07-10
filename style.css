@@ -1,0 +1,137 @@
+/*h3{
+    color:rgb(0, 255, 4);
+}
+h4{
+    color:rgb(42, 198, 65);
+}
+pre{
+    color:rgb(138, 198, 109);
+}
+button{
+    color: brown;
+    background-color: rgb(245, 245, 245);
+}
+body{
+    background-color: rgb(230, 90, 195);
+}
+h2{
+    color: #ffc03f;
+}
+#headingOne{
+    color:blueviolet;
+}
+#headingTwo{
+    color:chocolate;
+}*/
+/* div{
+    background-color:blue;
+}
+button{
+    color:green;
+}
+.heading{
+    color:red;
+}
+a{
+    text-decoration:underline;
+} */
+/* #one{
+    text-align:Center;
+    text-transform:capitalize;
+}
+p{
+    text-transform:capitalize;
+    font-family:Time new romans;
+}
+#outer{
+     font-size:25px;
+}
+#inner{
+    font-size:20px;
+} */
+
+/*TRAFFIC LIGHT*/
+
+/* #main{
+    height:500px;
+    width:150px;
+    background-color:black;
+    
+   
+}
+#red{
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    background-color:red;
+    padding: 25px;
+    
+}
+#yellow{
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    background-color:yellow;
+    padding: 25px;
+}
+#green{
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    background-color:green;
+    padding: 25px;
+} */
+
+
+/* NAVIBAR */
+* {
+    padding:0px;
+    margin:0px;
+    color:rgb(211, 14, 14);
+}
+#navbar{
+        height:60px;
+        background-color: #0f1111;
+        color: white;
+        
+}
+button{
+    background-color:#f08804;
+}
+#logo{
+    color:#f08804;
+    font-size:25px;
+}
+a{
+    padding-right:200px;
+
+}
+/*=======================================*/
+/* #one{
+    height:100px;
+    width:100px;
+    background-color:aqua;
+    margin:25px;
+    padding:25px; */
+/* }
+#two{
+    height:100px;
+    width:100px;
+    background-color:orchid;
+    margin:25px;
+    padding:25px;
+}
+
+#three{
+    height:100px;
+    width:100px;
+    background-color:greenyellow;
+    margin:25px;
+    padding:25px;
+} */
+/* ===================PRACTICE SET -4=======================2.54 */
+
+.contentbox {
+    height:100px;
+    width:100px;
+}
