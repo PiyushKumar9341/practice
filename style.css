@@ -83,29 +83,7 @@ p{
 } */
 
 
-/* NAVBAR */
-* {
-    padding:0px;
-    margin:0px;
-    color:rgb(211, 14, 14);
-}
-#navbar{
-        height:60px;
-        background-color: #0f1111;
-        color: rgb(255, 255, 255);
-        
-}
-button{
-    background-color:#f08804;
-}
-#logo{
-    color:#f08804;
-    font-size:25px;
-}
-a{
-    padding-right:200px;
-    color: white;
-}
+
 /*=======================================*/
 /* #one{
     height:100px;
@@ -130,8 +108,40 @@ a{
     padding:25px;
 } */
 /* ===================PRACTICE SET -4=======================2.54 */
+/* NAVBAR */
+* {
+    padding:0px;
+    margin:0px;
+    color:black;
+}
+#navbar{
+        height:60px;
+        background-color: #0f1111;
+        color: rgb(255, 255, 255);
+        
+}
+button{
+    background-color:#f08804;
+}
+#logo{
+    color:#f08804;
+    font-size:25px;
+}
+a{
+    padding-right:200px;
+    color: white;
+}
 
 .contentbox {
     height:100px;
     width:100px;
+    border:2px solid black;
+}
+footer{
+        text-align: center;
+        background-color: #0f1111;
+        color:white;
+}
+#content{
+    height:593px;
 }
